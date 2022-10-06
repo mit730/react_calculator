@@ -1,2 +1,2 @@
 # react_calculator
-Created with CodeSandbox
+Deployed link https://xys90l-3000.preview.csb.app/
